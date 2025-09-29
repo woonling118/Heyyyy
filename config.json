@@ -1,0 +1,18 @@
+{
+    "username": "",
+    "passwd": "",
+    "book_date": "2025-05-30",
+    "target_list": [{
+        "resource_id": "51589827-a2e0-47e8-a290-62bc7e6c927e",
+        "resource_timeslot_id": "8ecebe2a-a53b-4dbd-9425-e9deceae9ae1"
+    },{
+        "resource_id": "4127e777-5eae-4ac3-a092-c9dea1659e94",
+        "resource_timeslot_id": "a2ce59d6-bf87-4353-8262-a3740ad40712"
+    },{
+        "resource_id": "d1d3c331-ba9a-4544-9df2-895fff9437d9",
+        "resource_timeslot_id": "ac4a930a-50c1-40b6-97db-7cc609c18f18"
+    },{
+        "resource_id": "91b89b96-1009-44ed-9cd7-4250a0696f70",
+        "resource_timeslot_id": "755a8361-e774-4a73-b77e-f04a3221a7cc"
+    }]
+}
